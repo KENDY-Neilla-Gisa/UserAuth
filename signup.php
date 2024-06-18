@@ -159,10 +159,10 @@ session_start();
 			<form method="post">
 
 			<div class="input-box">
-			<input id="text" type="text" name="user_name" class="input-field" placeholder="Name" autocomplete="off" required></div>
+			<input id="text" type="text" name="user_name" class="input-field" placeholder="Name" autocomplete="on" required></div>
 
 			<div class="input-box">
-			<input id="text" type="password" name="password" class="input-field" placeholder="Password" autocomplete="off" required></div>
+			<input id="text" type="password" name="password" class="input-field" placeholder="Password" autocomplete="on" required></div>
 
 			<div class="forgot">
 				<section>

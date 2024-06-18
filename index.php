@@ -13,6 +13,11 @@ session_start();
 	<title>Member Login & Registration</title>
 </head>
 <body>
+	<style type="text/css">
+		*{
+			font-family: 'Poppins', sans-serif;
+		}
+	</style>
 
 	<a href="logout.php">Logout</a>
 	<h1>This is the index page</h1>
