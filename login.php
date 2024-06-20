@@ -183,7 +183,7 @@ session_start();
 					<label for="check">Remember Me</label>
 				</section>
 				<section>
-					<a href="#">Forgot Password</a>
+					<a href="#"><i>Forgot Password</i></a>
 				</section>
 			</div>
 			<div class="input-submit">
@@ -191,7 +191,7 @@ session_start();
 				<label for="submit">Login</label>
 			</div>
 			<div class="sign-up-link">
-				<p>Don't have an account? <a href="signup.php">Sign Up</a></p>
+				<p><i>Don't have an account?</i> <a href="signup.php">Sign Up</a></p>
 			</div>
 		</form>
 		
