@@ -191,7 +191,7 @@ session_start();
 				<label for="submit">Login</label>
 			</div>
 			<div class="sign-up-link">
-				<p><i>Don't have an account?</i> <a href="signup.php">Sign Up</a></p>
+				<p><i>Don't have an account?</i> <a href="signup.php">Sign Up</a></i></p>
 			</div>
 		</form>
 		
