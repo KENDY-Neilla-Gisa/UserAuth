@@ -166,7 +166,7 @@ session_start();
 
 	<div class="login-box">
 		<div class="login-header">
-			<header>Login</header>
+			<header>Sign in</header>
 		</div>
 		
 			<form method="post">
@@ -188,7 +188,7 @@ session_start();
 			</div>
 			<div class="input-submit">
 				<button class="submit-btn" id="submit" type="submit"></button>
-				<label for="submit">Login</label>
+				<label for="submit">Sign in</label>
 			</div>
 			<div class="sign-up-link">
 				<p>Don't have an account? <a href="signup.php">Sign Up</a></p>
