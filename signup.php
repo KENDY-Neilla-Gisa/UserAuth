@@ -154,7 +154,6 @@ session_start();
 	<div class="login-box">
 		<div class="login-header">
 			<header>Sign Up</header>
-			<h4>(Register)</h4>
 		</div>
 		
 			<form method="post">
