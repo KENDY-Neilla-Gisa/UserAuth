@@ -162,7 +162,11 @@ session_start();
 			<input id="text" type="text" name="user_name" class="input-field" placeholder="Name" autocomplete="on" required></div>
 
 			<div class="input-box">
-			<input id="text" type="password" name="password" class="input-field" placeholder="Password" autocomplete="on" required></div>
+			<input id="text" type="password" name="password" class="input-field" placeholder="Password" autocomplete="on" required>
+            <button type="button" id="toggle-password-visibility" class="toggle-password-visibility">
+            <i class="fa-solid fa-eye-slash"></i>
+            </button>
+		    </div>
 
 			<div class="forgot">
 				<section>

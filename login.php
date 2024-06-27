@@ -172,7 +172,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
 <body>
     <div class="login-box">
         <div class="login-header">
-            <header>Sign in</header>
+            <header>Login</header>
         </div>
 
         <form method="post">
@@ -196,7 +196,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
 
             <div class="input-submit">
                 <button class="submit-btn" id="submit" type="submit"></button>
-                <label for="submit">Sign in</label>
+                <label for="submit">Login</label>
             </div>
 
             <div class="sign-up-link">
