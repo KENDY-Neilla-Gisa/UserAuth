@@ -173,7 +173,6 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
     <div class="login-box">
         <div class="login-header">
             <header>Login</header>
-            <h3>(Sign in)</h3>
         </div>
 
         <form method="post">
