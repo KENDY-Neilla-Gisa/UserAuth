@@ -187,7 +187,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
             <div class="forgot">
                 <section>
                     <input type="checkbox" id="check">
-                    <label for="check"><i>Remember Me</i></label>
+                    <label for="check">Remember Me</label>
                 </section>
                 <section>
                     <a href="#"><i>Forgot Password</i></a>
