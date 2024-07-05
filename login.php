@@ -190,7 +190,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
                     <label for="check">Remember Me</label>
                 </section>
                 <section>
-                    <a href="#"><i>Forgot Password</i></a>
+                    <a href="#">Forgot Password</a>
                 </section>
             </div>
 
