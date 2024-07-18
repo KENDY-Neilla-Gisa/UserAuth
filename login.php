@@ -174,6 +174,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
         <div class="login-header">
             <header>Login</header>
         </div>
+        
         <form method="post">
             <div class="input-box">
                 <input id="text" type="text" name="user_name" class="input-field" placeholder="Name" autocomplete="on" required>
