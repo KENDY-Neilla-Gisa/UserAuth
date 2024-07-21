@@ -249,12 +249,7 @@ session_start();
 
 	</style>
 
-	<!-- <a href="logout.php">Logout</a>
-	<h1>This is the index page</h1>
-
-	<br>
-	Hello, <?php echo $user_data['user_name']; ?> -->
-
+	<p class="hello">Hello, <?php echo $user_data['user_name']; ?></p>
 	<section>
 		<input type="checkbox" id="check">
 		<header>
@@ -274,7 +269,7 @@ session_start();
 		<div class="content">
 			<div class="info">
 				<h2>Life in Black and White - <br><span>The Absence of Green: A World Without Color</span></h2>
-				<p>Imagine a world where the vibrant hues of green forests, blue oceans, and colorful wildlife are replaced by shades of black, grey, and white. This monochrome planet reflects an environment stripped of its natural vitality, offering a stark reminder of what could happen if we neglect our responsibility to protect and preserve nature. In this grayscale world, the once lush landscapes are now barren and lifeless, with the absence of color symbolizing the depletion of biodiversity and the consequences of unchecked pollution and climate change. This vision serves as a powerful call to action, urging us to appreciate the beauty and diversity of our planet and to take immediate steps to ensure that we do not lose the vibrant world we know and love. Through sustainable practices and a commitment to environmental conservation, we can prevent our world from fading into a monochrome existence and preserve the rich tapestry of life that makes Earth so unique.</p>
+				<p>Imagine a planet with no green forests, blue oceans and diverse species but black, grey and white. The world turns monochrome when nature’s soul is denied the environment. Such barren landscapes show that pollution and climate change have resulted in extinction of many species. This realization requires us to acknowledge how beautiful our planet is and why we should work towards sustainable practices aiming at saving the environment for our offspring lest we find ourselves caught up in an optical illusion life which would mean loss of this most priceless mosaic of life on Earth.</p>
 				<a href="#" class="info-btn">More Info</a>
 			</div>
 		</div>
@@ -284,6 +279,8 @@ session_start();
 			<a href="#"><i class="fa-brands fa-instagram"></i></a>
 		</div>
 	</section>
+
+	<a class="logout" href="logout.php">Logout</a>
 
 </body>
 </html>
