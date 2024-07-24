@@ -280,7 +280,7 @@ session_start();
 		</div>
 	</section>
 
-	<a class="logout" href="logout.php">Logout</a>
+	<a class="logout" href="logout.php">LOGOUT</a>
 
 </body>
 </html>
