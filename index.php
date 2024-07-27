@@ -270,6 +270,7 @@ session_start();
 			<div class="info">
 				<h2>Life in Black and White - <br><span>The Absence of Green: A World Without Color</span></h2>
 				<p>Imagine a planet with no green forests, blue oceans and diverse species but black, grey and white. The world turns monochrome when nature’s soul is denied the environment. Such barren landscapes show that pollution and climate change have resulted in extinction of many species. This realization requires us to acknowledge how beautiful our planet is and why we should work towards sustainable practices aiming at saving the environment for our offspring lest we find ourselves caught up in an optical illusion life which would mean loss of this most priceless mosaic of life on Earth.</p>
+				
 				<a href="#" class="info-btn">More Info</a>
 			</div>
 		</div>
