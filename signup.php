@@ -167,7 +167,6 @@ session_start();
             <i class="fa-solid fa-eye-slash"></i>
             </button>
 		    </div>
-
 			<div class="forgot">
 				<section>
 					<input type="checkbox" id="check">
